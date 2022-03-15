@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 525,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Digital maps provider MapmyIndia set to rise 51.5% in market debut - Reuters",
+            "description": "Shares of MapmyIndia <a href=\"https://www.reuters.com/companies/CEIF.NS\" target=\"_blank\">(CEIF.NS)</a>, which powers Apple Inc's <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> maps in the country, were set to open at a 51.5% p…",
+            "url": "https://www.reuters.com/world/india/digital-maps-provider-mapmyindia-set-rise-515-market-debut-2021-12-21/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+            "publishedAt": "2021-12-21T04:40:00Z",
+            "content": "BENGALURU, Dec 21 (Reuters) - Shares of MapmyIndia (CEIF.NS), which powers Apple Inc's (AAPL.O) maps in the country, were set to open at a 51.5% premium in their market debut on Tuesday, after a bump… [+340 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: Malaysia's labour abuse allegations a risk to export growth model - Reuters",
+            "description": "Malaysia's government and companies must address mounting allegations of workplace abuse of migrant labourers who fuel the country's economy, or face risks to its export-reliant growth model, experts warn.",
+            "url": "https://www.reuters.com/markets/commodities/malaysias-labour-abuse-allegations-risk-export-growth-model-2021-12-21/",
+            "urlToImage": "https://www.reuters.com/resizer/YXBGew4C0liZjFMHmKBBxiBLxbs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OV4O5QVWKJLGLPHUXH6AZ273Q4.jpg",
+            "publishedAt": "2021-12-21T01:28:00Z",
+            "content": "KUALA LUMPUR, Dec 21 (Reuters) - Malaysia's government and companies must address mounting allegations of workplace abuse of migrant labourers who fuel the country's economy, or face risks to its exp… [+6697 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samuel Gibbs Consumer technology editor",
+            "title": "Virtual Christmas: how to use technology to still have fun",
+            "description": "From video calls to group movies and multiplayer games, here are some ideas to make a remote Christmas more funWith Omicron spreading in the UK the potential for disruptions to Christmas plans are high, whether you’re limiting your contacts or have been force…",
+            "url": "https://amp.theguardian.com/technology/2021/dec/21/virtual-christmas-how-to-use-technology-to-still-have-fun",
+            "urlToImage": "https://i.guim.co.uk/img/media/a1f4d9015834d201b5853ac5725e9f32b145edf7/0_120_5275_3165/master/5275.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f486209f6cb6de0661ce5ad60e24db7",
+            "publishedAt": "2021-12-21T07:00:06Z",
+            "content": "With Omicron spreading in the UK the potential for disruptions to Christmas plans are high, whether youre limiting your contacts or have been forced to isolate. But the fact you cant meet in person d… [+6271 chars]"
+        },
+    
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iPhone 13 Mass Production Set to Begin in India From February",
+            "description": "Apple will see flagship iPhone 13 production begin on Indian soil early next year, courtesy of Foxconn's factory in Chennai, reports the Economic Daily.\n\n\n\n\n\nThe plans come following a reported improvement of semiconductor supply in the region, as well as a s…",
+            "url": "https://www.macrumors.com/2021/12/21/iphone-13-mass-production-india/",
+            "urlToImage": "https://images.macrumors.com/t/vIVHevwg7XD1pSY1P1aKVX5d7-c=/2531x/article-new/2021/09/iPhone-13-Feature-Candy-Corn.jpg",
+            "publishedAt": "2021-12-21T08:59:35Z",
+            "content": "Apple will see flagship iPhone 13 production begin on Indian soil early next year, courtesy of Foxconn's factory in Chennai, reports the Economic Daily.\r\nThe plans come following a reported improveme… [+1087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Boing Boing's Shop",
+            "title": "Start 2022 with this $59 training that will jumpstart a career as an IT professional",
+            "description": "The average salary of IT personnel is over $91,000 a year. And job prospects are expected to rise by 13 percent before 2030. Considering those numbers, anyone who doesn't feel fulfilled or secure in their career should take a long, hard look at a pivot to inf…",
+            "url": "https://boingboing.net/2021/12/20/start-2022-with-this-59-training-that-will-jumpstart-a-career-as-an-it-professional.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2021/12/sale_309565_article_image.jpg?fit=1200%2C800&ssl=1",
+            "publishedAt": "2021-12-21T05:57:00Z",
+            "content": "The average salary of IT personnel is over $91,000 a year. And job prospects are expected to rise by 13 percent before 2030. Considering those numbers, anyone who doesn't feel fulfilled or secure in … [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Orlando Hoilett",
+            "title": "A Label Maker That Uses AI Really Poorly",
+            "description": "[8BitsAndAByte] found herself obsessively labeling items around her house, and, like the rest of the world, wanted to see what simple, routine tasks could be made unnecessarily complicated by using …read more",
+            "url": "https://hackaday.com/2021/12/21/a-label-maker-that-uses-ai-really-poorly/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2021/12/ai-label-pic02-featured.jpg",
+            "publishedAt": "2021-12-21T09:00:56Z",
+            "content": "[8BitsAndAByte] found herself obsessively labeling items around her house, and, like the rest of the world, wanted to see what simple, routine tasks could be made unnecessarily complicated by using A… [+1629 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple expands 3D landmarks on Apple Maps to Philadelphia",
+            "description": "One of the new features of iOS 15 is a 3D experience for Apple Maps, which brings detailed landmarks of major cities in three dimensions. As expected, Apple is now expanding the 3D landmarks in Apple Maps to Philadelphia following a recent expansion to Washin…",
+            "url": "https://9to5mac.com/2021/12/20/apple-expands-3d-landmarks-on-apple-maps-to-philadelphia/",
+            "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/3D-landmarks-Apple-Maps-Philadelphia.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-12-21T02:14:54Z",
+            "content": "One of the new features of iOS 15 is a 3D experience for Apple Maps, which brings detailed landmarks of major cities in three dimensions. As expected, Apple is now expanding the 3D landmarks in Apple… [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple stops signing iOS 15.1.1, blocking downgrade from iOS 15.2",
+            "description": "Following the release of iOS 15.2 to all users last week, Apple today stopped signing iOS 15.1.1 for iPhone 13 models and iOS 15.1 for older iPhone models. This means that users who updated their devices to iOS 15.2 can no longer downgrade to iOS 15.1.1 or iO…",
+            "url": "https://9to5mac.com/2021/12/20/apple-stops-signing-ios-15-1-1-blocking-downgrade-from-ios-15-2/",
+            "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/iOS-15.1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-12-21T03:58:19Z",
+            "content": "Following the release of iOS 15.2 to all users last week, Apple today stopped signing iOS 15.1.1 for iPhone 13 models and iOS 15.1 for older iPhone models. This means that users who updated their dev… [+1283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "TikTok testing new way to let users repost content on the social network",
+            "description": "The popular social network TikTok is known for its viral short videos, but it has never offered an easy way to let users repost content to others. Now it seems that this is about to change as TikTok has been testing a new “Repost” button for users to share Ti…",
+            "url": "https://9to5mac.com/2021/12/20/tiktok-testing-new-way-to-let-users-repost-content-on-the-social-network/",
+            "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/TikTok.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-12-21T00:43:42Z",
+            "content": "The popular social network TikTok is known for its viral short videos, but it has never offered an easy way to let users repost content to others. Now it seems that this is about to change as TikTok … [+1308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Mark DeCambre",
+            "title": "The Tell: S&P 500 faces a further skid before bottoming — but pre-Christmas fall may offer chance to buy the dip, says Fundstrat",
+            "description": "Fundstrat's technical analyst sees more pain in store for stock-market bulls before the situation gets better on Wall Street.",
+            "url": "https://www.marketwatch.com/story/s-p-500-faces-a-further-skid-before-bottoming-but-pre-christmas-fall-may-offer-chance-to-buy-the-dip-says-fundstrat-11640051820",
+            "urlToImage": "https://images.mktw.net/im-455843/social",
+            "publishedAt": "2021-12-21T01:57:00Z",
+            "content": "The folks at Fundstrat Global Advisors have some good news and bad news for Wall Street, as investors and traders face the penultimate week of action in 2021: Mondays stock slump is a precursor to mo… [+2773 chars]"
+        }
+    ]
+}
